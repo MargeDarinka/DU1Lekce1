@@ -79,9 +79,9 @@ public class Main {
         Double spotreba= 4.5;
         String IPAdresa= "101.542.29.87";
         pocetSmluv=6;
-        prodano=(20.5);
+        prodano = 20.5;
         double prodejPrumer;
-        prodejPrumer = prodano/pocetSmluv;
+        prodejPrumer = prodano / pocetSmluv;
         System.out.println("Průměrné množství prodané mrkve "+prodejPrumer+" ks ");
 
     }
